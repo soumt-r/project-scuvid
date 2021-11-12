@@ -1,0 +1,12 @@
+{
+  "STUDENT" : {
+    "NAME" : "학생명",
+    "BIRTH" : "생년월일",
+    "PASS" : "비밀번호"
+  },
+  "SCHOOL" : {
+    "NAME" : "학교명",
+    "LOCATION" : "시/도",
+    "LEVEL" : "학교급"
+  }
+}
